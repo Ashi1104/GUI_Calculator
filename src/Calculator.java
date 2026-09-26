@@ -29,7 +29,7 @@ public class Calculator extends JFrame implements ActionListener {
 
         setTitle ("Simple Calculator");
 
-        setSize (400,500);
+        setSize (400,550);
 
         setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
 
